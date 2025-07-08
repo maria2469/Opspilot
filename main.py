@@ -1,6 +1,7 @@
 # main.py
-
+import os
 import streamlit as st
+os.system('pip install python-dotenv')
 from dotenv import load_dotenv
 import os
 
